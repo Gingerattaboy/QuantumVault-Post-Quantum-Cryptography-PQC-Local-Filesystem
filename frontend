@@ -1,0 +1,38 @@
+# QuantumVault Frontend Design Plan
+
+## Technologies
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+
+## Planned Pages
+
+### Landing Page
+- QuantumVault introduction
+- Navigation bar
+- Security features
+- Get Started button
+
+### Login Modal
+- Password input
+- Unlock Vault button
+- Status message
+
+### Vault Dashboard
+- Vault status
+- File management
+- Backend connection status
+- Lock and unlock buttons
+
+## Colour Theme
+
+- Background: #0B1120
+- Cards: #111827
+- Primary: #7C3AED
+- Accent: #22D3EE
+
+## Current Status
+
+Frontend design and planning phase.
