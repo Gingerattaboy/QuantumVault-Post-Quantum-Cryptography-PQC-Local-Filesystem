@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+**/target/
+**/build/
+keys/
+storage/
+mount/
+*.key
+*.key.enc
+crypto_engine/kem_test
+crypto_engine/aead_test
+/liboqs/
